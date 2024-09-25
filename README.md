@@ -5,34 +5,17 @@
 - [Module-01-HTML-CSS-and-Git](#module-01-html-css-and-git)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-    - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
+  - [Technologies Used](#technologies-used)
   - [License](#license)
   - [Questions](#questions)
 
 
 ## Description
 
-### Technologies Used
-
-## Installation
-To get a local copy up and running, follow these steps:
-
-git clone https://github.com/yourusername/Photography-Tutelage.git
-
-Navigate to the project directory:
-
-cd Photography-Tutelage
-
-Access the application: Open your web browser and go to http://localhost:3000 to view the application.
-
-## Usage
-
-
-## Credits
-
+## Technologies Used
+* (HTML) Hyper Text Markup Language
+* (CSS) Cascading Style Sheets
+* (GIT) Global information tracker
 
 ## License
 
@@ -42,7 +25,6 @@ Access the application: Open your web browser and go to http://localhost:3000 to
 
 ## Questions
 
-Got questions? Reach out to the Developers: 
+Got questions? Reach out to:
 
-Developer GitHub Profiles:
 - [Purple-Double-U](https://github.com/Purple-Double-U)
